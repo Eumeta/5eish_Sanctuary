@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h0b543319g9283g2a67g60d5g35afeb7b8545" version="2">Sanctuary Applied</content>
+  <content contentuid="hccb18ac5g53aag001cg62c7g42e158183670" version="1">Sanctuary</content>
+  <content contentuid="he8044400gd0edg8a51gac7egedf4bfbe864a" version="3">Force Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; on nearby enemies. Affected entity can't be targeted by enemy attacks or spells if they fail the saving throw. However, it can still take damage from spells that influence a larger area. Condition ends if the affected entity attacks or harms another creature.</content>
+  <content contentuid="h05a330e3gd7a4gce29ga3bag06fa1386e388" version="3">Sanctuary Bypassed</content>
+  <content contentuid="hb527a325g4ec3gb26fg7444g28175e86bb58" version="1">This entity cannot attack the Sanctuary bearer</content>
+  <content contentuid="hd145ad2bg4c85gc1aag714fg14fb0f8a6596" version="1">Sanctuary holds no sway to this entity</content>
+  <content contentuid="hadb0700dg4c87g1784g1c6fgc418306256af" version="2">Sanctuary</content>
+  <content contentuid="hc7866147g4278ge0a7gc972gb361b93af314" version="1">Sacntuary Applied</content>
+  <content contentuid="h2194482cg6fedgd95cgf0d5g6c7bc8a38c94" version="1">This entity cannot attack the Sanctuary bearer</content>
+  <content contentuid="ha9054462g6623g9257g7e99gb4277e6d5c03" version="1">Sanctuary</content>
+  <content contentuid="hdb2f9084g5d3eg5811gbbcdgc8e26d57b82e" version="2">Enemies around you or target cannot target you or the target if they fail Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; on their turn. You can still take damage from area spells.</content>
+  <content contentuid="h981124ffgbdaagac1dg20b6g04436ce12324" version="2">Until the affected entity attacks or harms another creature, it cannot be targeted by enemy attacks if they fail their Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;  . However, it can still take damage from spells that influence a larger area.</content>
+</contentList>

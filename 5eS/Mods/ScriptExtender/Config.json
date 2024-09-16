@@ -1,0 +1,9 @@
+
+{
+    	"RequiredVersion": 17,
+    	"ModTable": "5e_Sanctuary_dfe8c5bc-7d86-8be5-1195-82ff2c9b1220",
+    	"FeatureFlags": [
+	"Lua"
+	]
+}
+                    
